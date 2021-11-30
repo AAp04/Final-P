@@ -2,7 +2,8 @@
 
 ## What will (likely) be the title of your project?
 
-Cat Vs Dog Vs Humans  - https://projects.raspberrypi.org/en/projects/cats-vs-dogs/0
+Cat Vs Dog Vs Humans  - https://projects.raspberrypi.org/en/projects/cats-vs-dogs/0 
+The new thing I added was Human
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
