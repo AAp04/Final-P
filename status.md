@@ -22,7 +22,7 @@ I have so far gathered data for my project.
 
 #### What have you not done for your project yet?
 
-Fishing writing my code.
+Finished writing my code.
 
 #### What problems, if any, have you encountered?
 
