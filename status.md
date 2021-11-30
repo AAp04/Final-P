@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Amul Patel
 
 #### Your section leader's name
 
-TODO
+Amul Patel
 
 #### Project title
 
-TODO
+Cats vs dogs Vs Humans
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have so far gathered data for my project.
 
 #### What have you not done for your project yet?
 
-TODO
+Fishing writing my code.
 
 #### What problems, if any, have you encountered?
 
-TODO
+no
