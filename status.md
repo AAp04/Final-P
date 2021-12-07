@@ -10,7 +10,7 @@ Amul Patel
 
 #### Project title
 
-Cats vs dogs Vs Humans
+Cats vs dogs 
 
 ***
 
